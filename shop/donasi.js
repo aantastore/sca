@@ -1,27 +1,25 @@
 const donasibot = () => {
 return `DONASI BISA VIA BANK / E-MONEY
 
-*🏧 BANK*
+*💰 E-MONEY*
 
-1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
+1. GOPAY
+	ㅁ 081262411188
+2. OVO
+	ㅁ 081262411188
+3. DANA
+	ㅁ 081262411188
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 081262411188
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 081262411188
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 081262411188
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama Antastore
 `
 	}
 
